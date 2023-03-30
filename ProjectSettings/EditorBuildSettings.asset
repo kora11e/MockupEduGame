@@ -23,4 +23,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Shop.unity
     guid: 8019a5dc2a344f74186592be44193572
+  - enabled: 1
+    path: Assets/Scenes/Karol-minigra/MultiplicationLockGame 1.unity
+    guid: d0f53941505d25049b3b92e83832f67a
+  - enabled: 1
+    path: Assets/Scenes/Karol-minigra/DivisionLockGame.unity
+    guid: f6ec0216460680244ac995e7c1e90774
+  - enabled: 1
+    path: Assets/Scenes/Karol-minigra/SubtractionLockGame.unity
+    guid: de2380455171acd489e86cd7b2d43632
+  - enabled: 1
+    path: Assets/Scenes/Karol-minigra/SumLockGame 1.unity
+    guid: 55619e97462a868498506adc22d8e6e6
   m_configObjects: {}
